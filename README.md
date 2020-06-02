@@ -13,7 +13,5 @@ I looked at the distributions the features and the summary statistics. Below are
 
 !["Distribution of Age with Respect to Heart Disease](https://github.com/vatdaell/Heart-Disease-Analysis/blob/master/readme_images/age_dist.png "Distribution of Age with Respect to Heart Disease")
 
-<img src="./readme_images/agevsthal.png">
-
 ## Model 
 The model selected was an AdaBoost classifier. 

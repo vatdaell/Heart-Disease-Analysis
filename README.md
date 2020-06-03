@@ -1,5 +1,5 @@
 # Heart Disease Classifier: Project Overview
-* Created a heart disease classifier (Accuracy ~90              %)
+* Created a heart disease classifier (Accuracy ~93              %)
 * Engineered features by creating indicator features.
 * Tuned and optimized hyper-parameters of Ridge Logistic Regression, Support Vector Machine, Random Forest and AdaBoost. 
 

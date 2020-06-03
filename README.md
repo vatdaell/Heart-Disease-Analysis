@@ -15,15 +15,10 @@ I looked at the distributions the features and the summary statistics. Below are
 
 ![Thal vs Age with respect to heart disease](https://github.com/vatdaell/Heart-Disease-Analysis/blob/master/readme_images/agevsthal.png "Thal vs Age with respect to heart disease")
 
-![Confusion matrix](https://github.com/vatdaell/Heart-Disease-Analysis/blob/master/readme_images/confusion%20matrix.png "Thal vs Age with respect to heart disease")
-
-
 ## Model 
-I created a train-test split of the data where the test was 20%. 
+I created a train-test split of the data where the test was 20%. I used accuracy to measure the effectiveness of the model while making sure the true negative remained low.
 
-I used accuracy to measure the effectiveness of the model while making sure the true negative remained low.
-
-I used 4 different models:
+The following models were tested:
 
 **L2-Penalty Logistic Regression:** - Used as a Baseline
 
@@ -44,3 +39,7 @@ The AdaBoosted Random Forest with Logistic Regression estimators performed the b
 **Random Forest** - Accuracy: 90%
 
 **AdaBoost** - Accuracy: 94%
+
+**AdaBoost Confusion Matrix**
+
+![Confusion matrix](https://github.com/vatdaell/Heart-Disease-Analysis/blob/master/readme_images/confusion%20matrix.png "AdaBoosted Classifier Confusion Matrix")

@@ -38,6 +38,6 @@ The AdaBoosted Random Forest with Logistic Regression estimators performed the b
 
 **Random Forest** - Accuracy: 90%
 
-**AdaBoost** - Accuracy: 94%
+**AdaBoost** - Accuracy: 93%
 
 ![Confusion matrix](https://github.com/vatdaell/Heart-Disease-Analysis/blob/master/readme_images/confusion%20matrix.png "AdaBoosted Classifier Confusion Matrix")
